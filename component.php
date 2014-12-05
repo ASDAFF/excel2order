@@ -1,6 +1,5 @@
 <?
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
-	
 	$arPost = $_POST;
 	$arResult = Array();
 	
